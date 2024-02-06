@@ -1,0 +1,4 @@
+limit-service:
+  minimum: 1
+  maximum: 5000
+  attempt: 50
